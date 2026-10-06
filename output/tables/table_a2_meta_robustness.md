@@ -1,0 +1,18 @@
+| Scale            | Cross-system summary               | Estimate (SE)     | 95% CI            | 95% prediction interval   |   Systems |
+|:-----------------|:-----------------------------------|:------------------|:------------------|:--------------------------|----------:|
+| PISA points      | Inverse-variance fixed effect      | -8.318*** (0.445) | [-9.190, -7.446]  | —                         |        84 |
+| PISA points      | DerSimonian–Laird random effects   | -9.003*** (0.758) | [-10.489, -7.518] | [-19.877, 1.870]          |        84 |
+| PISA points      | Modified Hartung–Knapp             | -9.003*** (0.795) | [-10.584, -7.422] | —                         |        84 |
+| PISA points      | Equal-system mean                  | -9.489*** (0.844) | [-11.168, -7.810] | —                         |        84 |
+| PISA points      | Median system                      | -8.539            | —                 | —                         |        84 |
+| PISA points      | 10% trimmed mean                   | -8.819            | —                 | —                         |        84 |
+| PISA points      | Analysis-sample-size weighted mean | -9.839            | —                 | —                         |        84 |
+| Within-system SD | Inverse-variance fixed effect      | -0.093*** (0.005) | [-0.102, -0.084]  | —                         |        84 |
+| Within-system SD | DerSimonian–Laird random effects   | -0.093*** (0.007) | [-0.107, -0.079]  | [-0.188, 0.003]           |        84 |
+| Within-system SD | Modified Hartung–Knapp             | -0.093*** (0.007) | [-0.107, -0.078]  | —                         |        84 |
+| Within-system SD | Equal-system mean                  | -0.093*** (0.007) | [-0.107, -0.078]  | —                         |        84 |
+| Within-system SD | Median system                      | -0.088            | —                 | —                         |        84 |
+| Within-system SD | 10% trimmed mean                   | -0.090            | —                 | —                         |        84 |
+| Within-system SD | Analysis-sample-size weighted mean | -0.096            | —                 | —                         |        84 |
+
+*Notes:* All summaries use the same released system estimates. Modified Hartung–Knapp applies a t critical value and bounds the residual scale below by one. The sign test finds 78 of 84 point estimates below zero (one-sided p < 0.001). Descriptive medians and weighted/trimmed means have no reported sampling interval.

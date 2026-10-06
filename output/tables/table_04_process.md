@@ -1,0 +1,14 @@
+| Outcome                | Unit              |   Systems | Fixed effect            | Random effect           |
+|:-----------------------|:------------------|----------:|:------------------------|:------------------------|
+| Administered items     | items             |        84 | -0.000 (0.004)          | -0.000 (0.004)          |
+| Normalized credit      | percentage points |        84 | -1.554*** (0.081)       | -1.820*** (0.163)       |
+| Learn-phase credit     | percentage points |        84 | -1.934*** (0.092)       | -2.144*** (0.183)       |
+| Apply-phase credit     | percentage points |        84 | -2.183*** (0.090)       | -2.304*** (0.170)       |
+| Show-phase credit      | percentage points |        84 | -1.233*** (0.102)       | -1.441*** (0.181)       |
+| Not reached            | percentage points |        84 | -0.962*** (0.025)       | -1.722*** (0.120)       |
+| Disengaged             | percentage points |        84 | 2.287*** (0.058)        | 3.062*** (0.223)        |
+| Total time             | percent           |        84 | -14.87 [-15.26, -14.47] | -16.55 [-18.08, -14.98] |
+| Number of actions      | percent           |        84 | -6.66 [-7.10, -6.21]    | -7.06 [-8.18, -5.93]    |
+| Mean first-action time | percent           |        84 | -16.69 [-17.01, -16.36] | -17.65 [-18.84, -16.45] |
+
+*Notes:* Proportion outcomes are percentage-point changes. Logged timing/action outcomes are transformed as 100×(exp(beta)−1). Mean first-action time is the student's mean across applicable LDW items. Credit is each item's awarded score divided by its maximum score.

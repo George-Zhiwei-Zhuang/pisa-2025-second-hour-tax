@@ -1,0 +1,54 @@
+{
+  "eligible_students": 228833,
+  "eligible_systems": 84,
+  "eligible_strata": 63982,
+  "strict_students": 205114,
+  "strict_strata": 46979,
+  "strict_share": 0.8963479917669217,
+  "eligible_duplicate_student_ids": 0,
+  "strict_duplicate_student_ids": 0,
+  "nonpositive_final_weights": 0,
+  "ldw_pv_complete_students": 205114,
+  "ldw_process_matched_students": 202879,
+  "ldw_process_match_share": 0.9891036204257145,
+  "adaptive_students": 454324,
+  "adaptive_weighted_share": 0.6838107143999688,
+  "strict_system_treatment_share_min": 0.465531914893617,
+  "strict_system_treatment_share_max": 0.52322206095791,
+  "stratum_size": {
+    "median": 2.0,
+    "p10": 1.0,
+    "p90": 8.0,
+    "max": 1418
+  },
+  "support_thresholds": [
+    {
+      "minimum_students_per_order": 1,
+      "strata": 46979,
+      "students": 205114,
+      "share_of_eligible_students": 0.8963479917669217,
+      "systems": 84
+    },
+    {
+      "minimum_students_per_order": 2,
+      "strata": 17371,
+      "students": 131980,
+      "share_of_eligible_students": 0.5767524788819794,
+      "systems": 84
+    },
+    {
+      "minimum_students_per_order": 5,
+      "strata": 655,
+      "students": 17584,
+      "share_of_eligible_students": 0.07684206386316658,
+      "systems": 32
+    },
+    {
+      "minimum_students_per_order": 10,
+      "strata": 100,
+      "students": 10898,
+      "share_of_eligible_students": 0.0476242499989075,
+      "systems": 11
+    }
+  ]
+}

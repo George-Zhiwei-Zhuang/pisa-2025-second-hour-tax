@@ -1,0 +1,7 @@
+| Mirrored pair   | LDW effect, SD (SE)   | Paired-domain effect, SD (SE)   | LDW minus paired gap, points (SE)   |   Systems |
+|:----------------|:----------------------|:--------------------------------|:------------------------------------|----------:|
+| Science         | -0.084*** (0.008)     | 0.078*** (0.005)                | -15.33*** (0.91)                    |        84 |
+| Reading         | -0.114*** (0.012)     | 0.135*** (0.011)                | -23.01*** (1.40)                    |        83 |
+| Math            | -0.105*** (0.012)     | 0.063*** (0.011)                | -15.46*** (1.14)                    |        83 |
+
+*Notes:* Random-effects meta-estimates. Positive paired-domain coefficients mean a first-hour advantage because LDW-second assignment places that conventional domain first.

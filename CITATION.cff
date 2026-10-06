@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it using the metadata below."
+title: "The Second-Hour Tax: Randomized Test Order and Measured Comparative Advantage in PISA 2025"
+type: software
+authors:
+  - family-names: Zhuang
+    given-names: Zhiwei
+version: 1.1.0
+date-released: 2026-09-12
+license: MIT
+keywords:
+  - PISA 2025
+  - test order
+  - measurement
+  - learning in the digital world
+  - plausible values
+  - BRR-Fay
+abstract: >-
+  Data-free replication package for a study of randomized test order and measured
+  comparative advantage in the PISA 2025 Learning in the Digital World assessment.

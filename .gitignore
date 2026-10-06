@@ -1,0 +1,10 @@
+data/raw/*
+data/external/*
+data/interim/*
+data/processed/*
+output/logs/*
+!**/.gitkeep
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store

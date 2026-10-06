@@ -1,0 +1,52 @@
+project:
+  title: "The Second-Hour Tax: Randomized Test Order and Measured Comparative Advantage in PISA 2025"
+  cycle: 2025
+
+design:
+  treatment_definition: "1 if LDW was administered in the second hour"
+  eligible_books: [5, 6, 9, 10, 11, 12]
+  second_hour_books: [5, 9, 11]
+  mirrored_pairs:
+    science:
+      second_hour_ldw: 5
+      first_hour_ldw: 6
+      paired_domain: SCIE
+    reading:
+      second_hour_ldw: 9
+      first_hour_ldw: 10
+      paired_domain: READ
+    math:
+      second_hour_ldw: 11
+      first_hour_ldw: 12
+      paired_domain: MATH
+  strict_stratum: [CNT, CNTSCHID, paired_domain]
+
+survey:
+  final_weight: W_FSTUWT
+  replicate_weight_prefix: W_FSTURWT
+  replicate_weights: 80
+  fay: 0.5
+  plausible_values: 10
+
+outcomes:
+  ldw: CMPS
+  conventional: [SCIE, READ, MATH]
+
+adaptive_appendix:
+  books: [1, 2, 3, 4, 5, 6]
+  linear_spath: "1.0"
+  adaptive_spath: "2.0"
+  strict_stratum: [CNT, CNTSCHID, BOOKID]
+
+robustness:
+  minimum_students_per_order: [1, 2, 5, 10]
+  meta_summaries:
+    - inverse_variance_fixed
+    - dersimonian_laird_random
+    - modified_hartung_knapp
+    - equal_system
+    - median_system
+    - ten_percent_trimmed
+    - analysis_sample_size_weighted
+  leave_one_system_out: true
+  sign_test: true

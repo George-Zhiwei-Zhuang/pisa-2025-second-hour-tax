@@ -1,0 +1,36 @@
+{
+  "main": {
+    "k": 84,
+    "fixed_coefficient": 0.004087743615749388,
+    "fixed_standard_error": 0.0032357070621377776,
+    "fixed_p_value": 0.2064730723659799,
+    "fixed_ci_low": -0.002254242226040656,
+    "fixed_ci_high": 0.010429729457539432,
+    "random_coefficient": 0.004087743615749388,
+    "random_standard_error": 0.0032357070621377776,
+    "random_p_value": 0.2064730723659799,
+    "random_ci_low": -0.002254242226040656,
+    "random_ci_high": 0.010429729457539432,
+    "tau_squared": 0.0,
+    "q": 61.89732437110603,
+    "i_squared": 0.0,
+    "n_students": 454324
+  },
+  "escs_interaction": {
+    "k": 82,
+    "fixed_coefficient": -0.0026622691262306454,
+    "fixed_standard_error": 0.0036160757280453123,
+    "fixed_p_value": 0.46158978003536866,
+    "fixed_ci_low": -0.009749777553199458,
+    "fixed_ci_high": 0.004425239300738166,
+    "random_coefficient": -0.0026622691262306454,
+    "random_standard_error": 0.0036160757280453123,
+    "random_p_value": 0.46158978003536866,
+    "random_ci_low": -0.009749777553199458,
+    "random_ci_high": 0.004425239300738166,
+    "tau_squared": 0.0,
+    "q": 64.1620462235616,
+    "i_squared": 0.0,
+    "n_students": 397502
+  }
+}

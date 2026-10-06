@@ -1,0 +1,18 @@
+| Diagnostic                           | Value       |
+|:-------------------------------------|:------------|
+| Eligible students                    | 228833      |
+| Eligible systems                     | 84          |
+| Eligible design strata               | 63982       |
+| Strict-overlap students              | 205114      |
+| Strict-overlap strata                | 46979       |
+| Strict-overlap share                 | 89.63%      |
+| Duplicate eligible student IDs       | 0           |
+| Duplicate strict-sample student IDs  | 0           |
+| Nonpositive final weights            | 0           |
+| Complete LDW plausible-value records | 205114      |
+| LDW process-data match               | 98.91%      |
+| System treatment-share range         | 0.466–0.523 |
+| Median eligible stratum size         | 2.0         |
+| 10th–90th percentile stratum size    | 1.0–8.0     |
+
+*Notes:* Counts are generated directly from the pinned PUFs before outcome analysis. The treatment-share range is calculated across systems after imposing strict within-school × pair overlap.
