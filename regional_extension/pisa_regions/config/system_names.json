@@ -1,0 +1,19 @@
+{
+ "ALB":"Albania","ARE":"United Arab Emirates","ARG":"Argentina","ARM":"Armenia",
+ "AUS":"Australia","AUT":"Austria","AZE":"Azerbaijan","BEL":"Belgium","BGR":"Bulgaria",
+ "BRA":"Brazil","BRN":"Brunei Darussalam","CAN":"Canada","CHE":"Switzerland","CHL":"Chile",
+ "COL":"Colombia","CRI":"Costa Rica","CZE":"Czechia","DEU":"Germany","DNK":"Denmark",
+ "DOM":"Dominican Republic","ECU":"Ecuador","ESP":"Spain","EST":"Estonia","FIN":"Finland",
+ "FRA":"France","GBR":"United Kingdom","GEO":"Georgia","GRC":"Greece","GTM":"Guatemala",
+ "HKG":"Hong Kong (China)","HRV":"Croatia","HUN":"Hungary","IDN":"Indonesia","IRL":"Ireland",
+ "ISL":"Iceland","ISR":"Israel","ITA":"Italy","JOR":"Jordan","JPN":"Japan","KAZ":"Kazakhstan",
+ "KEN":"Kenya","KGZ":"Kyrgyzstan","KOR":"Korea","KSV":"Kosovo","LBN":"Lebanon",
+ "LTU":"Lithuania","LUX":"Luxembourg","LVA":"Latvia","MAC":"Macao (China)","MAR":"Morocco",
+ "MDA":"Moldova","MEX":"Mexico","MKD":"North Macedonia","MLT":"Malta","MNE":"Montenegro",
+ "MNG":"Mongolia","MYS":"Malaysia","NLD":"Netherlands","NOR":"Norway","NZL":"New Zealand",
+ "PER":"Peru","PHL":"Philippines","POL":"Poland","PRT":"Portugal","PRY":"Paraguay",
+ "PSE":"Palestinian Authority","QAT":"Qatar","QCI":"B-S-J-Z (China)","QUA":"Ukrainian regions (17 of 27)",
+ "ROU":"Romania","SAU":"Saudi Arabia","SGP":"Singapore","SLV":"El Salvador","SRB":"Serbia",
+ "SVK":"Slovak Republic","SVN":"Slovenia","SWE":"Sweden","TAP":"Chinese Taipei","THA":"Thailand",
+ "TUR":"Turkiye","URY":"Uruguay","USA":"United States","UZB":"Uzbekistan","VNM":"Viet Nam"
+}

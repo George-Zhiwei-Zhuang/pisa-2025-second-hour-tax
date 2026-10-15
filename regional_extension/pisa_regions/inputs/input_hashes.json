@@ -1,0 +1,15 @@
+{
+  "analysis_counts.json": "080d663a00771d0ef887cd4f03de2c1f9c2f51f79034b602b53b3f8c669331b4",
+  "main_effects.json": "214ee7b205e02bcc3d2af12f65995ae4060129e44e3cf7012fe9461b21af6453",
+  "original_LICENSE.txt": "20428977a53cd072660b418cc2aee747737c6ef349934a1aea47eddfb99c3c08",
+  "original_README.md": "2df5a50b34a08ebd6912f7e0974f6fe2fddd5366e1c9fa631f1d8cb2a1bf72e4",
+  "original_comparative_advantage.py": "512668ac6eb0a596d138687402e395045b41f298a7ef6ea1471b9f977b6f6c72",
+  "original_data_source_ledger.md": "a670a5076c427e8a6347fdbec79ce4f5c534f2c4b2cbbaac02d2267a41237ef3",
+  "original_estimators.py": "a5d478eaa1297d17a3d80b7e6e3b0d4604028b2f9d6035c87d039fd047bab024",
+  "original_main_effects.py": "a3c31ffae2955af2720c9189efc585571436f0a686d844f2255e888bfc85d12a",
+  "system_comparative_effects.csv": "a2f358e30f8fa3efd33812720c8969800fc310608f33cb6111c9c8a6d4f32d88",
+  "system_design_diagnostics.csv": "038bf390df606a8584ecfeba8281a209b601e6ca204f11cbf68e20ed638e2428",
+  "system_main_effects.csv": "14ebac8b9c77f8ba0ace3915bfe4bbcc9251d3275a15129bce570a2600e58fcb",
+  "system_process_effects.csv": "5e9b4703a59056834fd5f15ad88a20e7466dce0165517a9cd2f8ed8177d9f0b8",
+  "system_support_sensitivity.csv": "eac33e97ddd95a290045c6270bebc8178d5cd5d73049d7af0bcfeb9e2674eba2"
+}

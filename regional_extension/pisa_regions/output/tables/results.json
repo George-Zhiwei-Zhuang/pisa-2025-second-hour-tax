@@ -1,0 +1,111 @@
+{
+  "primary_sd": {
+    "systems": 84,
+    "regions": 12,
+    "tau_squared": 0.001381703936316051,
+    "residual_scale": 1.0,
+    "residual_q": 70.14800626905392,
+    "omnibus_f": 3.112588259884289,
+    "df_num": 11,
+    "df_denom": 72,
+    "omnibus_p_value": 0.0017794903269939021,
+    "method": "REML modified Knapp-Hartung"
+  },
+  "secondary_points": {
+    "systems": 84,
+    "regions": 12,
+    "tau_squared": 19.345464318423964,
+    "residual_scale": 1.0539803199405,
+    "residual_q": 75.886583035716,
+    "omnibus_f": 3.2121151272707493,
+    "df_num": 11,
+    "df_denom": 72,
+    "omnibus_p_value": 0.001341592945184355,
+    "method": "REML modified Knapp-Hartung"
+  },
+  "international_reference_checks": {
+    "points": {
+      "fixed_coefficient": -8.318035339144828,
+      "fixed_standard_error": 0.44497972031111316,
+      "random_coefficient": -9.003173662468194,
+      "random_standard_error": 0.7579706233342991,
+      "tau_squared": 29.302929317953506,
+      "q": 228.8182835611299
+    },
+    "sd": {
+      "fixed_coefficient": -0.09310290752068553,
+      "fixed_standard_error": 0.004675550379677487,
+      "random_coefficient": -0.09259477237284919,
+      "random_standard_error": 0.00710874666334925,
+      "tau_squared": 0.0022446598231620164,
+      "q": 184.23377030460333
+    },
+    "students": 205114,
+    "systems": 84,
+    "negative_systems": 78,
+    "sd_variance_identity_max_error": 1.7976072019809664e-16
+  },
+  "east_asia_western_europe": {
+    "region_a": "East Asia",
+    "region_b": "Western Europe",
+    "difference_a_minus_b": 0.07010725036314787,
+    "standard_error": 0.031532761249834104,
+    "ci_low": 0.007247839655356317,
+    "ci_high": 0.1329666610709394,
+    "p_value": 0.029333547666841257,
+    "df": 72,
+    "q_bh": 0.16229327719462466,
+    "p_holm": 1.0
+  },
+  "east_asia_southern_europe": {
+    "region_a": "East Asia",
+    "region_b": "Southern Europe",
+    "difference_a_minus_b": 0.092020201985169,
+    "standard_error": 0.02805509215460268,
+    "ci_low": 0.03609339791562724,
+    "ci_high": 0.14794700605471076,
+    "p_value": 0.0016015217851784846,
+    "df": 72,
+    "q_bh": 0.026425109455444996,
+    "p_holm": 0.10089587246624453
+  },
+  "equal_system_welch_omnibus": [
+    {
+      "specification": "All 12 groups",
+      "systems": 84,
+      "regions": 12,
+      "omnibus_f": 2.734280906768006,
+      "df_num": 11,
+      "df_denom": 11.639591690825348,
+      "omnibus_p_value": 0.05100588446410178,
+      "method": "Equal-system Welch ANOVA, unequal region variances"
+    },
+    {
+      "specification": "At least three systems per region",
+      "systems": 78,
+      "regions": 9,
+      "omnibus_f": 4.843226385645994,
+      "df_num": 8,
+      "df_denom": 21.608433880971045,
+      "omnibus_p_value": 0.0016092832234132642,
+      "method": "Equal-system Welch ANOVA, unequal region variances"
+    },
+    {
+      "specification": "Exclude ARM and LBN",
+      "systems": 82,
+      "regions": 12,
+      "omnibus_f": 2.569772281999531,
+      "df_num": 11,
+      "df_denom": 11.564945598203193,
+      "omnibus_p_value": 0.06253161629574727,
+      "method": "Equal-system Welch ANOVA, unequal region variances"
+    }
+  ],
+  "significant_pairwise_raw": 15,
+  "significant_pairwise_bh": 5,
+  "significant_pairwise_holm": 2,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "analysis_level": "archived system estimates, no microdata refit"
+}

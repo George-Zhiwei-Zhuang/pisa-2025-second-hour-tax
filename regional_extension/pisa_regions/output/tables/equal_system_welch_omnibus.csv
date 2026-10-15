@@ -1,0 +1,4 @@
+specification,systems,regions,omnibus_f,df_num,df_denom,omnibus_p_value,method
+All 12 groups,84,12,2.734280906768,11,11.639591690825,0.051005884464102,"Equal-system Welch ANOVA, unequal region variances"
+At least three systems per region,78,9,4.843226385646,8,21.608433880971,0.0016092832234133,"Equal-system Welch ANOVA, unequal region variances"
+Exclude ARM and LBN,82,12,2.5697722819995,11,11.564945598203,0.062531616295747,"Equal-system Welch ANOVA, unequal region variances"

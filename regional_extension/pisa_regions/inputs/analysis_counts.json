@@ -1,0 +1,14 @@
+{
+  "eligible_ldw_book_students": 228833,
+  "strict_main_students": 205114,
+  "strict_main_share": 0.8963479917669217,
+  "strict_main_systems": 84,
+  "strict_main_by_pair": {
+    "math": 33679,
+    "reading": 33856,
+    "science": 137579
+  },
+  "strict_process_students": 202879,
+  "strict_adaptive_students": 454324,
+  "strict_adaptive_systems": 84
+}
